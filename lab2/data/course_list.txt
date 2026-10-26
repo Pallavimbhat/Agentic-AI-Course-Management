@@ -1,0 +1,5 @@
+1. Database Management Systems (Semester 7)
+2. Artificial Intelligence (Semester 7)
+3. Computer Networks (Semester 6)
+4. Machine Learning (Semester 7)
+5. Cloud Computing (Semester 6)

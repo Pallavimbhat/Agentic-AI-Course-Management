@@ -1,0 +1,42 @@
+# Python cache files
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+
+.env
+.env.*
+!.env.example
+
+# IDE settings
+
+.vscode/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test and coverage files
+
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.bak

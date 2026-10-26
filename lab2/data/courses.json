@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Database Management Systems",
+        "semester": 7
+    },
+    {
+        "id": 2,
+        "name": "Artificial Intelligence",
+        "semester": 7
+    },
+    {
+        "id": 3,
+        "name": "Computer Networks",
+        "semester": 6
+    },
+    {
+        "id": 4,
+        "name": "Machine Learning",
+        "semester": 7
+    },
+    {
+        "id": 5,
+        "name": "Cloud Computing",
+        "semester": 6
+    }
+]
